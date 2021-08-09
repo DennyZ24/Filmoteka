@@ -2,7 +2,9 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 
 },{}],"clu1":[function(require,module,exports) {
 
-},{"modern-normalize/modern-normalize.css":"Y5dV"}],"Focm":[function(require,module,exports) {
-"use strict";require("./sass/main.scss"),console.log("hello world");
-},{"./sass/main.scss":"clu1"}]},{},["Focm"], null)
-//# sourceMappingURL=/Filmoteka/src.e2abec68.js.map
+},{"modern-normalize/modern-normalize.css":"Y5dV"}],"VyiV":[function(require,module,exports) {
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e={input:document.querySelector(".js-input"),homeBtn:document.querySelector('button[data-name="home"]'),libBtn:document.querySelector('button[data-name="library"]')};exports.default=e;
+},{}],"Focm":[function(require,module,exports) {
+"use strict";require("./sass/main.scss");var s=e(require("./js/refs"));function e(s){return s&&s.__esModule?s:{default:s}}
+},{"./sass/main.scss":"clu1","./js/refs":"VyiV"}]},{},["Focm"], null)
+//# sourceMappingURL=/Filmoteka/src.7e1a68a7.js.map

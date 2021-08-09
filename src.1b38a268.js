@@ -3,6 +3,6 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"clu1":[function(require,module,exports) {
 
 },{"modern-normalize/modern-normalize.css":"Y5dV"}],"Focm":[function(require,module,exports) {
-"use strict";require("./sass/main.scss");
+"use strict";require("./sass/main.scss"),console.log("hello");
 },{"./sass/main.scss":"clu1"}]},{},["Focm"], null)
-//# sourceMappingURL=/Filmoteka/src.18db6f0b.js.map
+//# sourceMappingURL=/Filmoteka/src.1b38a268.js.map

@@ -1,1 +1,58 @@
 @import 'modern-normalize/modern-normalize.css';
+
+.section {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.container {
+  width: 902px;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  height: 50px;
+
+  background-color: cornflowerblue;
+}
+
+.header-link {
+  color: #fff;
+  text-decoration: none;
+}
+
+.query-input {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.button-list {
+  display: flex;
+
+  margin: 0;
+  padding: 0;
+
+  list-style: none;
+}
+
+.button-list__item:first-child {
+  margin-right: 10px;
+}
+
+.footer {
+  text-align: center;
+}
+
+.footer-text {
+  padding: 0;
+  margin: 0;
+}

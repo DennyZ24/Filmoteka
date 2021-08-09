@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";;;;;AACC,aADD,QAAA,oBACCA,QAAQC,IAAI","file":"src.e2abec68.js","sourceRoot":"../src","sourcesContent":["import './sass/main.scss';\n console.log('hello world');\n"]}
